@@ -11,10 +11,8 @@ This project leverages python 3.7 with the following packages:
 * [pandas]GitHub at: https://github.com/pandas-dev/pandas - For fast, powerful and easy to use open source data analysis and manipulation tool built on Python
 
 * [anaconda]Anaconda at: https://docs.anaconda.com/anaconda/install/ - For use of Jupyter Lab
- 
----
 
-## Installation Guide
+* [jupyterlab]JupyterLab at: jupyterlab.readthedocs.io/en/stable/ - For use
 
 Go to your terminal or git bash and run conda activate dev to activate your conda dev environment. 
 You will then install the following librarie(s) and module(s) to run in Python codes you create.
@@ -25,27 +23,14 @@ Install pandas by...
 
 ## Usage
 
-Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use this application simply clone the repository and run the app.py
+Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use this application simply clone the repository and run the crypto_arbitrage.ipynb
 
 
 ---
 
-## Example Values
+## Example Date Calculated
 
-```
-python arbitrage_crypto.ipynb
-? Enter a file path to a rate-sheet (.csv): data/daily_rate_sheet.csv
-? What's your credit score? 800
-? What's your current amount of monthly debt? 1000
-? What's your total monthly income? 100000
-? What's your desired loan amount? 400000
-? What's your home value? 600000
-The monthly debt to income ratio is 0.01
-The loan to value ratio is 0.67.
-Found 9 qualifying loans
-? Do you want to save the file (Y or N):  Yes
-? provide path/file: qualifying_loans.csv
-```
+
 
 ## Contributors
 
