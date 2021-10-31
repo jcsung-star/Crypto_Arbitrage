@@ -25,6 +25,16 @@ Install pandas by...
 
 Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use this application simply clone the repository and run the crypto_arbitrage.ipynb in you Jupyter Lab Notebook.
 
+---
+
+## Sample Visualizations
+
+![image](https://user-images.githubusercontent.com/87351302/139561903-e6b249c2-f7d1-4066-bb58-886204cd6709.png)
+![image](https://user-images.githubusercontent.com/87351302/139561917-bedd9c1f-d104-4ef6-a37f-4dc2185d4ebf.png)
+![image](https://user-images.githubusercontent.com/87351302/139562062-17b65d3a-1b97-4f10-a22a-ea006dca098a.png)
+![image](https://user-images.githubusercontent.com/87351302/139562094-0e76e009-4036-4b2a-9f8e-f16f5fcac35a.png)
+
+
 
 ---
 
